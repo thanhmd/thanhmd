@@ -21,6 +21,7 @@ Technologies and Languages:
 -Cloud: AWS Lambda, AWS S3 bucket, Cloud Watch
 
 -Tools: Vscode, Git, GitHub, Jira, Trello, Bitbucket, Postman, NodeJS, JDK, NPM, Babel, webpack, JSLint, Prettier, Zeplin, Docker, PgAdmin, MongoDB Atlas, ChatGPT
+
 -Methodology: Agile, Waterfall.
 
 
