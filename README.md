@@ -5,16 +5,24 @@ Fullstack Developer | Freelancer
 --------------------------------
 
 Looking for a remote/hybrid full-time position with the role Full Stack Developer, Full stack engineer. Having over 4 years of experience in web development professionally skilled at Frontend and NodeJS full stack development with strong computer science background and problem solving troubleshooting skills, communication skills.
+
 Had been working for an outsourcing company, product company and providing web development service as a freelancer. Willing to learn new technology if needed, want to take part in a company to fully develop my skills, and contribute to build advanced modern large scale and useful systems.
 
 Technologies and Languages:
--Languages: JavaScript ES6, NodeJS (Advanced), Typescript (Intermediate), Java (Beginner) 
+
+-Languages: JavaScript ES6, NodeJS (Advanced), Typescript (Intermediate), Java (Beginner)
+
 -Technologies: ReactJS, React hook, Redux, Redux-Saga, Styled-component, NextJS, static page generation, React Native, NodeJS, NodeJS Restful APIs, NodeJS SSR, Sequelize ORM, Mongoose ORM, AWS SDK, Angular, RxJS, WordPress, PHP, Laravel, HTML5/CSS3, JavaScript ES5/ES6, Bootstrap, Material UI, Antd, Responsive Design, client/server side rendering, Android APK deployment
+
 -Backend skills: NodeJS RESTful APIs, NodeJS SSR, ExpressJS, Java.
+
 -Front-end best practices: Loading time and performance optimization, accessibility, browser compatibility, CSS compatible, SEO optimization, code refactor, optimize codebase. -Database: PostgreSQL, MySQL, MongoDB.
+
 -Cloud: AWS Lambda, AWS S3 bucket, Cloud Watch
+
 -Tools: Vscode, Git, GitHub, Jira, Trello, Bitbucket, Postman, NodeJS, JDK, NPM, Babel, webpack, JSLint, Prettier, Zeplin, Docker, PgAdmin, MongoDB Atlas, ChatGPT
 -Methodology: Agile, Waterfall.
+
 
 * 🌍  I'm based in Ho Chi Minh city, Vn
 * ✉️  You can contact me at [dmt2426@gmail.com](mailto:dmt2426@gmail.com)
