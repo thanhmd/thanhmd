@@ -4,25 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer | Freelancer
 --------------------------------
 
-Looking for a remote/hybrid full-time position with the role Full Stack Developer, Full stack engineer. Having over 4 years of experience in web development professionally skilled at Frontend and NodeJS full stack development with strong computer science background and problem solving troubleshooting skills, communication skills.
+Full-stack software engineer with over 4 years of experience implementing the web application using React.JS and Node.JS full-stack. Have diverse working experience in an outsourcing company, product company, and for a US client as a freelancer. Looking for a new remote/hybrid full-time opportunity as a Full stack developer/engineer
 
-Had been working for an outsourcing company, product company and providing web development service as a freelancer. Willing to learn new technology if needed, want to take part in a company to fully develop my skills, and contribute to build advanced modern large scale and useful systems.
 
-Technologies and Languages:
-
--Languages: JavaScript ES6, NodeJS (Advanced), Typescript (Intermediate), Java (Beginner)
-
--Technologies: ReactJS, React hook, Redux, Redux-Saga, Styled-component, NextJS, static page generation, React Native, NodeJS, NodeJS Restful APIs, NodeJS SSR, Sequelize ORM, Mongoose ORM, AWS SDK, Angular, RxJS, WordPress, PHP, Laravel, HTML5/CSS3, JavaScript ES5/ES6, Bootstrap, Material UI, Antd, Responsive Design, client/server side rendering, Android APK deployment
-
--Backend skills: NodeJS RESTful APIs, NodeJS SSR, ExpressJS, Java.
-
--Front-end best practices: Loading time and performance optimization, accessibility, browser compatibility, CSS compatible, SEO optimization, code refactor, optimize codebase. -Database: PostgreSQL, MySQL, MongoDB.
-
--Cloud: AWS Lambda, AWS S3 bucket, Cloud Watch
-
--Tools: Vscode, Git, GitHub, Jira, Trello, Bitbucket, Postman, NodeJS, JDK, NPM, Babel, webpack, JSLint, Prettier, Zeplin, Docker, PgAdmin, MongoDB Atlas, ChatGPT
-
--Methodology: Agile, Waterfall.
+Languages: JavaScript ES6 (4+ yoe), Node.JS (2+ yoe), Typescript (1+ yoe), Java (Beginner)
+Technologies: React.JS, React hook, Redux.JS, Redux-Saga, Styled-component, Next.JS, static page generation, React Native, Node.JS Restful APIs, Node.JS SSR, Express.JS, Sequelize ORM, Bull.JS, Mongoose ORM, AWS SDK, Angular, RxJS, WordPress, PHP, Laravel, HTML5/CSS3, jQuery, Bootstrap, Material-UI, Antd, Responsive Design, client/server side rendering, Android APK deployment
+Front-end best practices: Loading time and performance optimization, accessibility, browser compatibility, CSS compatible, SEO optimization, code refactor, optimize codebase.
+Database: SQL, PostgreSQL, MySQL, MongoDB.
+Cloud: Amazon Web Services (AWS) Lambda, AWS S3 bucket, Cloud Watch
+Tools: Vscode, Git, GitHub, Jira, Trello, Bitbucket, Postman, NodeJS, JDK, NPM, Babel, webpack, JSLint, Prettier, Zeplin, Docker, PgAdmin, MongoDB Atlas, ChatGPT
+Methodology: Agile, Waterfall.
 
 
 * 🌍  I'm based in Ho Chi Minh city, Vn
