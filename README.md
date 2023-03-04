@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanh Duong
 ===================================================================================================================================
 
-Fullstack Node.js Developer | Freelancer
+Fullstack Node.js Developer
 --------------------------------
 
 Full-stack software engineer with over 4 years of experience implementing the web application using React.JS and Node.JS full-stack. Have diverse working experience in an outsourcing company, product company, and for a US client as a freelancer. Looking for a new remote/hybrid full-time opportunity as a Full stack developer/engineer
