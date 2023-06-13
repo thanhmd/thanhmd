@@ -22,8 +22,8 @@ Methodology: Agile, Waterfall.
 
 
 * 🌍  I'm based in Ho Chi Minh city, Vn
-* ✉️  You can contact me at [dmt2426@gmail.com](mailto:dmt2426@gmail.com)
-* 🤝  I'm open to collaborating on Full stack NodeJS projects
+* ✉️  You can contact me at [thanhduongatwork@gmail.com](mailto:thanhduongatwork@gmail.com)
+* 🤝  I'm open to collaborating on Full stack Node.JS projects
 
 <a href="https://www.github.com/thanhmd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thanhmd?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
