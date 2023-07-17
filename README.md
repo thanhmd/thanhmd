@@ -3,24 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Fullstack Node.js Developer
 --------------------------------
-
-Full-stack software engineer with over 4 years of experience implementing the web application using React.JS and Node.JS full-stack. Have diverse working experience in an outsourcing company, product company, and for a US client as a freelancer. Looking for a new remote/hybrid full-time opportunity as a Full stack developer/engineer
-
-
-Languages: JavaScript ES6 (4+ yoe), Node.JS (2+ yoe), Typescript (1+ yoe), Java (Beginner)
-
-Technologies: React.JS, React hook, Redux.JS, Redux-Saga, Styled-component, Next.JS, static page generation, React Native, Node.JS Restful APIs, Node.JS SSR, Express.JS, Sequelize ORM, Bull.JS, Mongoose ORM, AWS SDK, Angular, RxJS, WordPress, PHP, Laravel, HTML5/CSS3, jQuery, Bootstrap, Material-UI, Antd, Responsive Design, client/server side rendering, Android APK deployment
-
-Front-end best practices: Loading time and performance optimization, accessibility, browser compatibility, CSS compatible, SEO optimization, code refactor, optimize codebase.
-
-Database: SQL, PostgreSQL, MySQL, MongoDB.
-
-Cloud: Amazon Web Services (AWS) Lambda, AWS S3 bucket, Cloud Watch
-
-Tools: Vscode, Git, GitHub, Jira, Trello, Bitbucket, Postman, NodeJS, JDK, NPM, Babel, webpack, JSLint, Prettier, Zeplin, Docker, PgAdmin, MongoDB Atlas, ChatGPT
-Methodology: Agile, Waterfall.
-
-
 * 🌍  I'm based in Ho Chi Minh city, Vn
 * ✉️  You can contact me at [thanhduongatwork@gmail.com](mailto:thanhduongatwork@gmail.com)
 * 🤝  I'm open to collaborating on Full stack Node.JS projects
