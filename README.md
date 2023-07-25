@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanh Duong
 ===================================================================================================================================
 
-Fullstack Node.js Developer
+React.js/Node.js Developer
 --------------------------------
-* 🌍  I'm based in Ho Chi Minh city, Vn
+* 🌍  I'm based in Ho Chi Minh city, Vietnam
 * ✉️  You can contact me at [thanhduongatwork@gmail.com](mailto:thanhduongatwork@gmail.com)
-* 🤝  I'm open to collaborating on Full stack Node.JS projects
+* 🤝  I'm open to collaborating on Javascript/React.js/Node.js projects
 
 <a href="https://www.github.com/thanhmd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thanhmd?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
